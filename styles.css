@@ -1,1 +1,19 @@
-/* your code */
+table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 20px;
+}
+thead th{
+    text-align: left;
+    color: white;
+    background-color: rgba(4, 4, 204, 0.492);
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  td{
+    background-color:#dddddd;
+  }
